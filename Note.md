@@ -17,3 +17,7 @@ degremont.farm :
 iconaclub.com : 
 - tee shirt nissan
 - tee shirt simple icona club
+
+
+# Classe PageVerifier
+Métier : Proposer des vérifications sur une page web
